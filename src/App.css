@@ -1,0 +1,44 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.header{
+  background-color: bisque;
+  height: 10vh;
+}
+
+.header h1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.nav{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
+
+::marker{
+  color: black;
+}
+
+.mount h1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.unmount h1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.update h1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
